@@ -209,7 +209,7 @@ public class StatusView extends JFrame {
 
         Student student = studentDAO.selectById(jtfstudentID);
         if(student == null) {
-            JOptionPane.showMessageDialog(null, "Không tồn tại");
+            JOptionPane.showMessageDialog(null, "Không tồn tại ");
             return false;
         }
         if(!StudentId.equals(jtfstudentID) || !student.getName().equals(StudentName)){
