@@ -1,6 +1,6 @@
 # QuanLyThuVienJavaMVC
 # 📌 Giới thiệu:
-Dự án này là một ứng dụng dựa trên ngôn ngữ lập trình Java, được phát triển theo các nguyên lý của lập trình hướng đối tượng. Ứng dụng kết nối với cơ sở dữ liệu MySQL để lưu trữ và truy xuất dữ liệu. Dự án mô phỏng một hệ thống quản lý thư viện đơn giản, cho phép thủ thư và người đọc quản lý và truy cập dữ liệu sách cũng như các giao dịch mượn/trả sách
+Dự án này xây dựng một hệ thống phần mềm hỗ trợ quản lý toàn diện hoạt động thư viện, giúp đơn giản hóa việc lưu trữ, tra cứu và xử lý thông tin về sách, độc giả và phiếu mượn – nhằm nâng cao hiệu quả công tác quản lý và giảm thiểu thao tác thủ công.
 
 # 👥 Thành viên:
 - Ta Cong Chien 23010209
