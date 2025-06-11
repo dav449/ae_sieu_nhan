@@ -29,6 +29,12 @@ create table LibrarianManager(
 	nameLibrarian varchar(250),
     employeeCard varchar(50)
 );
+INSERT INTO LibrarianManager (LibrarianID, employeeCard) VALUES
+(1,'EMP001'),
+(2,'EMP002'),
+(3,'EMP003'),
+(4, 'EMP004'),
+(5, 'EMP005');
 
 
 CREATE TABLE LibrarianLogin (
